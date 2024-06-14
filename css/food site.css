@@ -1,0 +1,17 @@
+.container
+{
+	width: 1200px;
+	height: auto;
+}
+.container .header
+{
+	width: 200px;
+	height: auto;
+}
+.container .header .parallelogram
+{
+	width: 2000px;
+	height: 200px;
+	transform: skew(20deg);
+	background-color: yellow;
+}

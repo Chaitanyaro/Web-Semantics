@@ -1,0 +1,15 @@
+.navbar{}
+.navbar ul{
+	list-style-type: none ;
+}
+.navbar ul li{}
+.navbar ul li a{
+	text-decoration: none ;
+	background-color: #eee;
+	padding: 20px;
+	float: left;
+}
+.navbar ul li a:hover{
+	background-color: #000;
+	color: #fff;
+}

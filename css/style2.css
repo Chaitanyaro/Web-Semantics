@@ -1,0 +1,134 @@
+.container{
+	width: 1200px;
+	height: auto;
+	margin: 0 auto;
+}
+.container .header
+{
+	width: 1200px;
+	height: 200px;
+	background-color: #ff0000;
+}
+.container .contentrow1
+{
+	width: 1200px;
+	height: auto;
+}
+.container .contentrow1 .content1
+{
+	width: 300px;
+	height: 200px;
+	background-color: #000;
+	float: left	
+}
+.container .contentrow1 .content2
+{
+	width: 300px;
+	height: 200px;
+	background-color: #0000ff;
+	float: left
+}
+.container .contentrow1 .content3
+{
+	width: 300px;
+	height: 200px;
+	background-color: #008080;
+	float: left
+}
+.container .contentrow1 .content4
+{
+	width: 300px;
+	height: 200px;
+	background-color: 7c1409;
+	float: left	
+}
+.container .contentrow2
+{
+	width: 1200px;
+	height: auto;
+}
+.container .contentrow2 .content5
+{
+	width: 300px;
+	height: 200px;
+	background-color: #ffff00;
+	float: left
+}
+.container .contentrow2 .content6
+{
+	width: 300px;
+	height: 200px;
+	background-color: #dc143c;
+	float: left;
+}
+.container .contentrow2 .content7
+{
+	width: 600px;
+	height: 200px;
+	background-color: #57d62d;
+	float: left;
+}
+.container .contentrow3
+{
+	width: 1200px;
+	height: auto;
+}
+.container .contentrow3 .content8
+{
+	width: 600px;
+	height: 200px;
+	background-color: 2dd1d6;
+	float: left;
+}
+.container .contentrow3 .content9
+{
+	width: 300px;
+	height: 200px;
+	background-color: ad2dd6;
+	float: left;
+}
+.container .contentrow3 .content10
+{
+	width: 300px;
+	height: 200px;
+	background-color: 091eeb;
+	float: left;
+}
+.container .contentrow4
+{
+	width: 1200px;
+	height: auto;
+}
+.container .contentrow4 .content11
+{
+	width: 300px;
+	height: 200px;
+	background-color: 2b3492;
+	float: left;
+}
+.container .contentrow4 .content12
+{
+	width: 600px;
+	height: 200px;
+	background-color: 2b928f;
+	float: left;
+}
+.container .contentrow4 .content13
+{
+	width: 300px;
+	height: 200px;
+	background-color: 72922b;
+	float: left;
+}
+.container .contentrow5
+{
+	width: 1200px;
+	height: auto;
+}
+.container .contentrow5 .content14
+{
+	width: 1200px;
+	height: 200px;
+	background-color: ff0000;
+	float: left;
+}
